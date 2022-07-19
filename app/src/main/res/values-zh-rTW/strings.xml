@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bmi</string>
+    <string name="help">幫助</string>
+    <string name="bmi_info">體重指數（BMI）是一個人的體重（公斤）除以身高（米）的平方。 BMI 是一種廉價且簡單的體重類別篩查方法——體重過輕、健康體重、超重和肥胖。</string>
+    <string name="ok">好的</string>
+    <string name="your_bmi_is">"你的bmi是 "</string>
+    <string name="weight">體重</string>
+    <string name="height">身高</string>
+    <string name="caculate_bmi">計算bmi</string>
+</resources>

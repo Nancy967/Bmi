@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bmi</string>
+    <string name="help">Help</string>
+    <string name="bmi_info">Body mass index (BMI) is a person’s weight in kilograms divided by the square of height in meters. BMI is an inexpensive and easy screening method for weight category—underweight, healthy weight, overweight, and obesity.</string>
+    <string name="ok">OK</string>
+    <string name="your_bmi_is">\"Your bmi is \"</string>
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="caculate_bmi">caculate bmi</string>
+</resources>
